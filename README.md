@@ -103,10 +103,8 @@ Il2CppDumper is a tool to reverse **Unity's IL2CPP** (Intermediate Language To C
 
 1. **Download the latest release** from [Releases](https://github.com/erzo19/erzo-bolt-il2cppdumper/releases)
 2. **Extract the archive** to your desired location
-3. **Run `BUILD_GUI.bat`** to build the application
-4. **Run `RUN_GUI.bat`** to launch the GUI
+3. **Run `Il2CppDumper.GUI.exe`** to open the application
 
-### Build from Source
 
 ```bash
 # Clone the repository
@@ -255,16 +253,6 @@ After dumping, you'll find:
 - Ensure both Il2Cpp binary and metadata files are selected
 - Check file permissions
 - Verify files are not corrupted
-
----
-
-## 📚 Documentation
-
-- **[START_HERE.md](START_HERE.md)** - Quick start guide
-- **[QUICKSTART.md](QUICKSTART.md)** - Step-by-step instructions
-- **[README_GUI.md](README_GUI.md)** - Comprehensive GUI documentation
-- **[UI_PREVIEW.md](UI_PREVIEW.md)** - Visual interface guide
-- **[PROJECT_SUMMARY.md](PROJECT_SUMMARY.md)** - Technical overview
 
 ---
 
